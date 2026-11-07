@@ -1,3 +1,4 @@
+
 # 🏥 ArogyaSetu — Smart Rural Health Assistant
 
 > **Bridging the healthcare gap for rural and underserved communities in India**
@@ -198,3 +199,6 @@ This project was built for **Smart India Hackathon (SIH)** by Team ArogyaSetu.
   <strong>Built with ❤️ for Rural India</strong><br/>
   <em>ArogyaSetu — Bridging the Healthcare Gap</em>
 </div>
+
+# Smart-Rural-Health-Assistant
+
